@@ -1,5 +1,5 @@
 # Mochii (summer-2023)
-## By @raghav-karn and @SpikyHighVirus
+## By [@raghav-karn](https://github.com/raghav-karn) and [@SpikyHighVirus](https://github.com/SpikyHighVirus)
 ### A summer-camp school project
 
 Built on CSS blocks, welcome to a polished shoe shop! 
