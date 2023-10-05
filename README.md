@@ -10,4 +10,4 @@ Welcome to a polished shoe shop! Hope you like it! ~~PS: got some easter eggs to
 - site: https://raghav-karn.github.io/mochii
 - original site: https://shreyghav.github.io/home
 
-![[index.html]]
+- [ ] eggs
