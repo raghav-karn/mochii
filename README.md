@@ -1,23 +1,16 @@
-# ```Mochii``` (summer-23)
-##### Not the original repository.
+# 👟 ```Mochii```
+##### A polished shoe store.
 ---
-## By [@raghav-karn](https://github.com/raghav-karn) and [@SpikyHighVirus](https://github.com/SpikyHighVirus)
-### A summer-camp school project
+## By [@raghav-karn](https://github.com/raghav-karn)
 ---
-Welcome to a polished shoe shop! Hope you like it! ~~PS: got some easter eggs to look for!~~
+Welcome to **Mochii**, *fitting in all sizes*! 
 
-This is the original repository of the shoe store, and although might be messy, it is the og!
+This is a personal project developed for [High Seas](https://highseas.hackclub.com) and [Boba Drops](https://boba.backclub.com). Hope you like it! ~~PS: got some easter eggs to look for!~~
 
-**Note**: site isnt complete with buttons and some links not working. Plus, this is largely based on [CSS code blocks](https://tailblocks.cc/), and much of it isn't my effort to build it from scratch but rather modifying it to our liking. `
-
-> - original site: https://shreyghav.github.io/home
-> - alt repo: https://github.com/raghav-karn/mochii
-> - alt site: https://raghav-karn.github.io/mochii
+**Credits:** [W3Schools](https://w3schools.com), [TailBlocks](https://tailblocks.cc), [Tailwind CSS](https://tailwindcss.com)
 
 - [ ] Bought a new shoe?
 
 Any, and all, recommendations and contributions are welcomed. ``` :D ```
 
 ---
-
-And for those of you who really wanna see what copying this site looks like, [here](https://ashusachiv441.github.io/ashers-sports) you go.
